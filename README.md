@@ -1,7 +1,7 @@
 # hello-world
 test repository
 
-This file is test file for github.
+This file is a test file for github.
 Hi Trupti Reddy here
 I am happy go lucky girl.
 I am die hard music lover.
